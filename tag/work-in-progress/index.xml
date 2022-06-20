@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Work in Progress | Felix Rusche</title>
+    <link>httos:://felixrusche.github.io/tag/work-in-progress/</link>
+      <atom:link href="httos:://felixrusche.github.io/tag/work-in-progress/index.xml" rel="self" type="application/rss+xml" />
+    <description>Work in Progress</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>httos:://felixrusche.github.io/images/icon_huafcb730affc7289a88b05d2831b87107_376_512x512_fill_lanczos_center_3.png</url>
+      <title>Work in Progress</title>
+      <link>httos:://felixrusche.github.io/tag/work-in-progress/</link>
+    </image>
+    
+    <item>
+      <title>Discriminiation in Job-Network Formation</title>
+      <link>httos:://felixrusche.github.io/publication/workinprogress-2/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>httos:://felixrusche.github.io/publication/workinprogress-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Media for Development: Evidence from India</title>
+      <link>httos:://felixrusche.github.io/publication/workinprogress-1/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>httos:://felixrusche.github.io/publication/workinprogress-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
