@@ -33,7 +33,7 @@
   <meta name="description" content="Felix Rusche is a PhD Candidate in Economics at the University of Mannheim">
 
   
-  <link rel="alternate" hreflang="en-us" href="#ZgotmplZ">
+  <link rel="alternate" hreflang="en-us" href="https:://felixrusche.github.io/publication-type/2/">
 
   
 
@@ -221,6 +221,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-691MNCDVSF"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-691MNCDVSF', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -235,7 +273,7 @@
   <link rel="icon" type="image/png" href="/images/icon_huafcb730affc7289a88b05d2831b87107_376_32x32_fill_lanczos_center_3.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_huafcb730affc7289a88b05d2831b87107_376_192x192_fill_lanczos_center_3.png">
 
-  <link rel="canonical" href="#ZgotmplZ">
+  <link rel="canonical" href="https:://felixrusche.github.io/publication-type/2/">
 
   
   
@@ -254,10 +292,10 @@
   <meta property="twitter:creator" content="@felix_erpunkt">
   
   <meta property="og:site_name" content="Felix Rusche">
-  <meta property="og:url" content="httos:://felixrusche.github.io/publication-type/2/">
+  <meta property="og:url" content="https:://felixrusche.github.io/publication-type/2/">
   <meta property="og:title" content="2 | Felix Rusche">
-  <meta property="og:description" content="Felix Rusche is a PhD Candidate in Economics at the University of Mannheim"><meta property="og:image" content="httos:://felixrusche.github.io/images/icon_huafcb730affc7289a88b05d2831b87107_376_512x512_fill_lanczos_center_3.png">
-  <meta property="twitter:image" content="httos:://felixrusche.github.io/images/icon_huafcb730affc7289a88b05d2831b87107_376_512x512_fill_lanczos_center_3.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="Felix Rusche is a PhD Candidate in Economics at the University of Mannheim"><meta property="og:image" content="https:://felixrusche.github.io/images/icon_huafcb730affc7289a88b05d2831b87107_376_512x512_fill_lanczos_center_3.png">
+  <meta property="twitter:image" content="https:://felixrusche.github.io/images/icon_huafcb730affc7289a88b05d2831b87107_376_512x512_fill_lanczos_center_3.png"><meta property="og:locale" content="en-us">
   
     <meta property="og:updated_time" content="2022-06-20T00:00:00&#43;00:00">
   

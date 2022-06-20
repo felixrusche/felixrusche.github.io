@@ -33,7 +33,7 @@
   <meta name="description" content="An example of linking directly to an external project website using `external_link`.">
 
   
-  <link rel="alternate" hreflang="en-us" href="#ZgotmplZ">
+  <link rel="alternate" hreflang="en-us" href="https:://felixrusche.github.io/project/external-project/">
 
   
 
@@ -221,6 +221,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-691MNCDVSF"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-691MNCDVSF', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -233,7 +271,7 @@
   <link rel="icon" type="image/png" href="/images/icon_huafcb730affc7289a88b05d2831b87107_376_32x32_fill_lanczos_center_3.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_huafcb730affc7289a88b05d2831b87107_376_192x192_fill_lanczos_center_3.png">
 
-  <link rel="canonical" href="#ZgotmplZ">
+  <link rel="canonical" href="https:://felixrusche.github.io/project/external-project/">
 
   
   
@@ -251,10 +289,10 @@
   <meta property="twitter:creator" content="@felix_erpunkt">
   
   <meta property="og:site_name" content="Felix Rusche">
-  <meta property="og:url" content="httos:://felixrusche.github.io/project/external-project/">
+  <meta property="og:url" content="https:://felixrusche.github.io/project/external-project/">
   <meta property="og:title" content="External Project | Felix Rusche">
-  <meta property="og:description" content="An example of linking directly to an external project website using `external_link`."><meta property="og:image" content="httos:://felixrusche.github.io/project/external-project/featured.jpg">
-  <meta property="twitter:image" content="httos:://felixrusche.github.io/project/external-project/featured.jpg"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="An example of linking directly to an external project website using `external_link`."><meta property="og:image" content="https:://felixrusche.github.io/project/external-project/featured.jpg">
+  <meta property="twitter:image" content="https:://felixrusche.github.io/project/external-project/featured.jpg"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2016-04-27T00:00:00&#43;00:00">
@@ -281,12 +319,12 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "httos:://felixrusche.github.io/project/external-project/"
+    "@id": "https:://felixrusche.github.io/project/external-project/"
   },
   "headline": "External Project",
   
   "image": [
-    "httos:://felixrusche.github.io/project/external-project/featured.jpg"
+    "https:://felixrusche.github.io/project/external-project/featured.jpg"
   ],
   
   "datePublished": "2016-04-27T00:00:00Z",
@@ -302,7 +340,7 @@
     "name": "University of Mannheim",
     "logo": {
       "@type": "ImageObject",
-      "url": "httos:://felixrusche.github.io/images/icon_huafcb730affc7289a88b05d2831b87107_376_192x192_fill_lanczos_center_3.png"
+      "url": "https:://felixrusche.github.io/images/icon_huafcb730affc7289a88b05d2831b87107_376_192x192_fill_lanczos_center_3.png"
     }
   },
   "description": "An example of linking directly to an external project website using `external_link`."
@@ -721,7 +759,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=httos:://felixrusche.github.io/project/external-project/&amp;text=External%20Project" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https:://felixrusche.github.io/project/external-project/&amp;text=External%20Project" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -734,7 +772,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=httos:://felixrusche.github.io/project/external-project/&amp;t=External%20Project" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https:://felixrusche.github.io/project/external-project/&amp;t=External%20Project" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -747,7 +785,7 @@
       
       
       <li>
-        <a href="mailto:?subject=External%20Project&amp;body=httos:://felixrusche.github.io/project/external-project/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=External%20Project&amp;body=https:://felixrusche.github.io/project/external-project/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -760,7 +798,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=httos:://felixrusche.github.io/project/external-project/&amp;title=External%20Project" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https:://felixrusche.github.io/project/external-project/&amp;title=External%20Project" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -773,7 +811,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=External%20Project%20httos:://felixrusche.github.io/project/external-project/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="whatsapp://send?text=External%20Project%20https:://felixrusche.github.io/project/external-project/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -786,7 +824,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=httos:://felixrusche.github.io/project/external-project/&amp;title=External%20Project" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https:://felixrusche.github.io/project/external-project/&amp;title=External%20Project" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -827,7 +865,7 @@
       
 
       <div class="media-body">
-        <h5 class="card-title"><a href="httos:://felixrusche.github.io">Felix Rusche</a></h5>
+        <h5 class="card-title"><a href="https:://felixrusche.github.io">Felix Rusche</a></h5>
         <h6 class="card-subtitle">PhD candidate in Economics</h6>
         <p class="card-text">I am a doctoral candidate in economics at University of Mannheim. My main research interests are Media Economics, Political Economy, and Development Economics.</p>
         <ul class="network-icon" aria-hidden="true">
