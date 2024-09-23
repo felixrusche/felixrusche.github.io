@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Working Paper | Felix Rusche</title>
-    <link>https:://felixrusche-github.io/tag/working-paper/</link>
-      <atom:link href="https:://felixrusche-github.io/tag/working-paper/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/working-paper/</link>
+      <atom:link href="/tag/working-paper/index.xml" rel="self" type="application/rss+xml" />
     <description>Working Paper</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 Felix Rusche</copyright><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https:://felixrusche-github.io/images/icon_huafcb730affc7289a88b05d2831b87107_376_512x512_fill_lanczos_center_3.png</url>
+      <url>/images/icon_huafcb730affc7289a88b05d2831b87107_376_512x512_fill_lanczos_center_3.png</url>
       <title>Working Paper</title>
-      <link>https:://felixrusche-github.io/tag/working-paper/</link>
+      <link>/tag/working-paper/</link>
     </image>
     
     <item>
       <title>LinkedOut? A Field Experiment on Discrimination in Job Network Formation</title>
-      <link>https:://felixrusche-github.io/publication/workingpaper-1/</link>
+      <link>/publication/workingpaper-1/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https:://felixrusche-github.io/publication/workingpaper-1/</guid>
+      <guid>/publication/workingpaper-1/</guid>
       <description></description>
     </item>
     
