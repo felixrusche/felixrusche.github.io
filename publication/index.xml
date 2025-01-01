@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Felix Rusche</title>
-    <link>https:://felixrusche-github.io/publication/</link>
-      <atom:link href="https:://felixrusche-github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 Felix Rusche</copyright><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025 Felix Rusche</copyright><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https:://felixrusche-github.io/images/icon_huafcb730affc7289a88b05d2831b87107_376_512x512_fill_lanczos_center_3.png</url>
+      <url>/images/icon_huafcb730affc7289a88b05d2831b87107_376_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
-      <link>https:://felixrusche-github.io/publication/</link>
+      <link>/publication/</link>
     </image>
     
     <item>
       <title>LinkedOut? A Field Experiment on Discrimination in Job Network Formation</title>
-      <link>https:://felixrusche-github.io/publication/workingpaper-1/</link>
+      <link>/publication/workingpaper-1/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https:://felixrusche-github.io/publication/workingpaper-1/</guid>
+      <guid>/publication/workingpaper-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Few voices, strong echo: Measuring follower homogeneity of politicians’ Twitter accounts</title>
-      <link>https:://felixrusche-github.io/publication/published-paper/</link>
+      <link>/publication/published-paper/</link>
       <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https:://felixrusche-github.io/publication/published-paper/</guid>
+      <guid>/publication/published-paper/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Broadcasting Change: India&#39;s Community Radio Policy and Women&#39;s Empowerment</title>
-      <link>https:://felixrusche-github.io/publication/workinprogress-1/</link>
+      <link>/publication/workinprogress-1/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https:://felixrusche-github.io/publication/workinprogress-1/</guid>
+      <guid>/publication/workinprogress-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dissecting Media Bias: Daily Stock Market Performance in the News</title>
-      <link>https:://felixrusche-github.io/publication/workinprogress-2/</link>
+      <link>/publication/workinprogress-2/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https:://felixrusche-github.io/publication/workinprogress-2/</guid>
+      <guid>/publication/workinprogress-2/</guid>
       <description></description>
     </item>
     
