@@ -5,44 +5,12 @@
     <link>/author/felix-rusche/</link>
       <atom:link href="/author/felix-rusche/index.xml" rel="self" type="application/rss+xml" />
     <description>Felix Rusche</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025 Felix Rusche</copyright><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025 Felix Rusche</copyright>
     <image>
       <url>/images/icon_huafcb730affc7289a88b05d2831b87107_376_512x512_fill_lanczos_center_3.png</url>
       <title>Felix Rusche</title>
       <link>/author/felix-rusche/</link>
     </image>
-    
-    <item>
-      <title>LinkedOut? A Field Experiment on Discrimination in Job Network Formation</title>
-      <link>/publication/workingpaper-1/</link>
-      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/workingpaper-1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Few voices, strong echo: Measuring follower homogeneity of politicians’ Twitter accounts</title>
-      <link>/publication/published-paper/</link>
-      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/published-paper/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Broadcasting Change: India&#39;s Community Radio Policy and Women&#39;s Empowerment</title>
-      <link>/publication/workinprogress-1/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/workinprogress-1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dissecting Media Bias: Daily Stock Market Performance in the News</title>
-      <link>/publication/workinprogress-2/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/workinprogress-2/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
