@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Felix Rusche</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <link>https:://felixrusche-github.io/</link>
+      <atom:link href="https:://felixrusche-github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Felix Rusche</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025 Felix Rusche</copyright>
     <image>
-      <url>/images/icon_huafcb730affc7289a88b05d2831b87107_376_512x512_fill_lanczos_center_3.png</url>
+      <url>https:://felixrusche-github.io/images/icon_huafcb730affc7289a88b05d2831b87107_376_512x512_fill_lanczos_center_3.png</url>
       <title>Felix Rusche</title>
-      <link>/</link>
+      <link>https:://felixrusche-github.io/</link>
     </image>
     
     <item>
       <title>Privacy Policy</title>
-      <link>/privacy/</link>
+      <link>https:://felixrusche-github.io/privacy/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/privacy/</guid>
+      <guid>https:://felixrusche-github.io/privacy/</guid>
       <description>&lt;h2 id=&#34;kontaktmöglichkeiten&#34;&gt;Kontaktmöglichkeiten&lt;/h2&gt;
 &lt;p&gt;E-Mail-Adresse: felix.rusche[at]uni-mannheim.de&lt;/p&gt;
 &lt;h2 id=&#34;haftungs--und-schutzrechtshinweise&#34;&gt;Haftungs- und Schutzrechtshinweise&lt;/h2&gt;
@@ -36,9 +36,9 @@
     
     <item>
       <title>Terms</title>
-      <link>/terms/</link>
+      <link>https:://felixrusche-github.io/terms/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/terms/</guid>
+      <guid>https:://felixrusche-github.io/terms/</guid>
       <description>&lt;h2 id=&#34;datenschutzerklärung&#34;&gt;Datenschutzerklärung&lt;/h2&gt;
 &lt;h3 id=&#34;einleitung&#34;&gt;Einleitung&lt;/h3&gt;
 &lt;p&gt;Mit der folgenden Datenschutzerklärung möchten wir Sie darüber aufklären, welche Arten Ihrer personenbezogenen Daten (nachfolgend auch kurz als “Daten“ bezeichnet) wir zu welchen Zwecken und in welchem Umfang verarbeiten. Die Datenschutzerklärung gilt für alle von uns durchgeführten Verarbeitungen personenbezogener Daten, sowohl im Rahmen der Erbringung unserer Leistungen als auch insbesondere auf unseren Webseiten, in mobilen Applikationen sowie innerhalb externer Onlinepräsenzen, wie z.B. der Social-Media-Profile (nachfolgend zusammenfassend bezeichnet als “Onlineangebot“).&lt;/p&gt;
